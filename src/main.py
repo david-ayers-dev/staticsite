@@ -1,8 +1,9 @@
 from textnode import TextNode, TextType
 
-def main():
-    text = TextNode("this is my text", TextType.CODE_TEXT, "https://google.com")
-    print(text)
+
+def main() -> None:
+    node = TextNode("this is my text", TextType.CODE_TEXT, "https://www.boot.dev")
+    print(node)
+
 
 main()
-
