@@ -1,1 +1,1 @@
-python3 src/main.py "/https://github.com/david-ayers-dev/staticsite/"
+python3 src/main.py "/staticsite/"
